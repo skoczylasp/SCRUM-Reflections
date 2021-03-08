@@ -1,0 +1,3 @@
+Podstawowa roznica pomiedzy Scrumem a Kanbanem
+Scrum zaklada dostarczanie w zamknietych sprintach, kazdy sprint jest zlozony z zadan.
+Kanban natomiast jest bardziej skupiony na zadaniach, nie na grupach zadan, i bardziej elastycznie podchodzi do listy zadan. 
