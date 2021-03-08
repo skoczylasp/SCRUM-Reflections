@@ -1,0 +1,1 @@
+Wymagania funkcjonalne opisuja funkcje wykonywane przez system. Wymagania niefunkcjonalne nie dotycza bezposrednio funkcji systemu,a np. jego wlasciwosci.
