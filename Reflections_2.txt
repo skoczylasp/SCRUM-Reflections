@@ -1,0 +1,3 @@
+Test Driven Development jest to technika  tworzenia oprogramowania stworzona przez Kenta Becka. Polega na wielokrotnym powtarzaniu sekwencji czynnosci, 
+jak tworzenie testow automatycznych sprawdzajacych dodawana funkcjonalnosc, nastepnie implementacja funkcjonalnosci, a nastepnie refaktoryzacja kodu. 
+TDD wyroznia sie tym, ze programista zaczyna od tworzenia testow funkcji, ktora nie zostala napisana.
